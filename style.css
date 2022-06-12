@@ -50,6 +50,10 @@ h1, h3, h4, h5, h6 {
   transition: all 0.4s;
 }
 
+.back-to-top i{
+  color: white;
+}
+
 .back-to-top i {
   font-size: 28px;
   color: #A9A9A9;;
@@ -1621,7 +1625,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #A9A9A9;
-  color: #800000;
+  color: #65392E;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1634,6 +1638,6 @@ section {
 
 #footer .social-links a:hover {
   background: rgba(255, 255, 255, 0.2);
-  color: #fff;
+  color: grey;
   text-decoration: none;
 }
